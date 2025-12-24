@@ -16,7 +16,7 @@ My passion for learning and solving challenges has brought me to participate.
 ### 📝 Guide
 ---
 * Every folder with a year as the title contains the daily solutions of the AoC (Advent of Code) for that corresponding year.
-* Each of these folders contain the solution files named after the day of the problem.
+* Each of these folders contain the solution folders named after the day of the problem.
 
 ### ⚙️ Run Solutions
 ---
