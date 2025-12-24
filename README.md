@@ -1,22 +1,27 @@
 ### 🎄 My Advent of Code Solutions
 ---
-This repository contains my Advent of Code submissions.
+This repository contains my solutions to Advent of Code, an annual series of programming challenges released daily in December.
 
 ### 🤔 What is Advent of Code?
 ---
-* The Advent of Code is an annual online event featuring daily programming puzzles.
-* A programming puzzle comes out each day in December that offer a challenging and unique experience.
+Advent of Code (AoC) is a yearly programming event that publishes one puzzle per day, each designed to test problem-solving, algorithms, and implementation skills.
 
 ### 🧑‍🔧 Why am I participating?
 ---
-In general for skill development but, more specifically I want perfect my python skills and keep developing my Go skills.
-The Advent of Code also interests me because their unique challenges. It allows me to learn things that I don't get to work on a ton.
-My passion for learning and solving challenges has brought me to participate.
+I use Advent of Code to:
+* Strengthen problem-solving and algorithmic thinking
+* Improve my Go skills and enhance proficiency in Python
+* Work on problems that differ from typical coursework or LeetCode-style questions
 
-### 📝 Guide
+### 🗂️ Repository Structure
 ---
-* Every folder with a year as the title contains the daily solutions of the AoC (Advent of Code) for that corresponding year.
-* Each of these folders contain the solution folders named after the day of the problem.
+Advent-of-Code/
+├── 2025/
+│   ├── day01/
+│   ├── day02/
+│   └── ...
+* Each year folder contains that year’s AoC solutions
+* Each day folder contains the solution(s) for that specific puzzle
 
 ### ⚙️ Run Solutions
 ---
