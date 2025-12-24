@@ -15,11 +15,13 @@ I use Advent of Code to:
 
 ### 🗂️ Repository Structure
 ---
+```text
 Advent-of-Code/
 ├── 2025/
 │   ├── day01/
 │   ├── day02/
 │   └── ...
+```
 * Each year folder contains that year’s AoC solutions
 * Each day folder contains the solution(s) for that specific puzzle
 
