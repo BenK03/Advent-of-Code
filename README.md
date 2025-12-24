@@ -20,5 +20,9 @@ My passion for learning and solving challenges has brought me to participate.
 
 ### ⚙️ Run Solutions
 ---
-TODO
+```bash
+git clone <REPO_URL>
+cd Advent-of-Code/<year_folder>/<day_folder>
+go run <filename>.go
+```
 
