@@ -4,8 +4,8 @@ This repository contains my Advent of Code submissions.
 
 ### 🤔 What is Advent of Code?
 ---
-The Advent of Code is an annual online event featuring daily programming puzzles. 
-A programming puzzle comes out each day in December that offer a challenging and unique experience.
+* The Advent of Code is an annual online event featuring daily programming puzzles. 
+* A programming puzzle comes out each day in December that offer a challenging and unique experience.
 
 ### 🧑‍🔧 Why am I participating?
 ---
