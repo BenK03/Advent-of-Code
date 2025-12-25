@@ -29,7 +29,14 @@ Advent-of-Code/
 ---
 ```bash
 git clone <REPO_URL>
-cd Advent-of-Code/<year_folder>/<day_folder>
+```
+# Go
+```bash
+cd Advent-of-Code/<corresponding-solutions-file>
 go run <filename>.go
 ```
-
+# Python
+```bash
+cd Advent-of-Code/<corresponding-solutions-file>
+python3 <filename>.py
+```
