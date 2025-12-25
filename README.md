@@ -30,12 +30,12 @@ Advent-of-Code/
 ```bash
 git clone <REPO_URL>
 ```
-# Go
+#### Go
 ```bash
 cd Advent-of-Code/<corresponding-solutions-file>
 go run <filename>.go
 ```
-# Python
+#### Python
 ```bash
 cd Advent-of-Code/<corresponding-solutions-file>
 python3 <filename>.py
