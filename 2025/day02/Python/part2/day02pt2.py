@@ -11,10 +11,10 @@ def main():
             s = str(i)
             n = len(s)
 
-            for i in range(1, len(s) // 2 + 1):
+            for j in range(1, len(s) // 2 + 1):
 
-                pattern = s[:i]
-                repeats =  n // i
+                pattern = s[:j]
+                repeats =  n // j
 
                 # check if pattern repeated is the same as s
                 if pattern * repeats == s: # if yes invalid
